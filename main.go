@@ -1,1 +1,3 @@
-{}
+package new
+func main{
+}
